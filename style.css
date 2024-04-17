@@ -1,0 +1,14 @@
+main
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1
+{
+    margin-top: 5px;
+}
+.cabeçalho
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: auto;
+}
