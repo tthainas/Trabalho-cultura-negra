@@ -1,0 +1,27 @@
+body
+{ 
+    background-color: lightgoldenrodyellow;
+}
+h1
+{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+}
+article
+{
+    text-align: center;
+}
+.img
+{
+    width: 600px;
+    height: 200px;
+}
+section
+    {
+        width: 400px;
+        height: 400px;
+        background-color: #e4e686f3;
+        margin: 50px auto;
+        padding: 30px 50px;
+        box-sizing: border-box;
+    }
