@@ -1,27 +1,57 @@
 body
 { 
-    background-color: lightgoldenrodyellow;
+    background-color: beige;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1
 {
-   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-family: Arial, sans-serif;
    text-align: center;
 }
 article
 {
     text-align: center;
 }
-.img
+main
 {
-    width: 600px;
-    height: 200px;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(216, 216, 177);
+    margin: 30px;
+    padding: 30px 50px;
+    box-sizing: border-box;
 }
-section
-    {
-        width: 400px;
-        height: 400px;
-        background-color: #e4e686f3;
-        margin: 50px auto;
-        padding: 30px 50px;
-        box-sizing: border-box;
-    }
+main img
+{
+    width: 400px;
+    height: 250px;
+}
+header h1
+{
+    border-style: solid;
+    border-color: rgb(243, 227, 134);
+}
+img
+{
+    width: 500px;
+    height: 300px;
+}
+
+.principal
+{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.segundo
+{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.segundo img
+{
+   width: 400px;
+   height: 220px;
+}
