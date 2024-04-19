@@ -8,6 +8,7 @@ h1
 {
    font-family: Arial, sans-serif;
    text-align: center;
+   color: brown;
 }
 article
 {
@@ -17,7 +18,7 @@ main
 {
     width: 500px;
     height: 500px;
-    background-color: rgb(216, 216, 177);
+    background-color: rgb(223, 223, 185);
     margin: 30px;
     padding: 30px 50px;
     box-sizing: border-box;
@@ -30,7 +31,11 @@ main img
 header h1
 {
     border-style: solid;
-    border-color: rgb(243, 227, 134);
+    border-color: rgb(114, 7, 7);
+}
+h1
+{
+    color: brown;
 }
 img
 {
