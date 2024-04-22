@@ -4,8 +4,32 @@
 }
 body
 {
-    background-color: beige;
+    background-color: burlywood;
     font-family: Arial, Helvetica, sans-serif;
+}
+.cabeçalho
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    margin-top: 5px;
+    align-items: center;
+}
+a
+{
+    color: black;
+    text-decoration: none;
+}
+a:hover
+{
+    background-color: brown;
+    border-radius: 6px;
+}
+.destaque
+{
+    background-color: sienna;
+    color: tan;
+    border-radius: 2px;
 }
 h1
 {
@@ -15,7 +39,7 @@ main
 {
     width: 500px;
     height: 500px;
-    background-color: rgb(223, 223, 185);
+    background-color: peru;
     margin: 30px;
     padding: 30px 50px;
     box-sizing: border-box;
@@ -27,8 +51,8 @@ header h1
 }
 img
 {
-    width: 500px;
-    height: 300px;
+    width: 400px;
+    height: 250px;
 }
 .principal
 {
