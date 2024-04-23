@@ -9,6 +9,7 @@ body
 }
 .cabeçalho
 {
+    color: sienna;
     display: flex;
     justify-content: space-around;
     padding: 16px;
@@ -39,10 +40,10 @@ main
 {
     width: 500px;
     height: 500px;
-    background-color: peru;
     margin: 30px;
     padding: 30px 50px;
     box-sizing: border-box;
+    border: solid maroon ;
 }
 header h1
 {
