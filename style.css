@@ -6,7 +6,7 @@ title
 body
 {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: beige;
+    background-color: wheat;
 }
 h1
 {
@@ -15,20 +15,60 @@ h1
 }
 .cabeçalho
 {
+    color: sienna;
     display: flex;
     justify-content: space-around;
     padding: 16px;
     margin-top: 5px;
     align-items: center;
 }
+.primeiro
+{
+    margin: 100px;
+    display: flex;
+    justify-content: center;
+}
+.musica1
+{
+    width: 370px;
+    height: 300px;
+    background-color: burlywood;
+    margin: auto;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+.cultura
+{
+    width: 370px;
+    height: 300px;
+    background-color: burlywood;
+    margin: auto;
+    padding: 20px 40px;
+    box-sizing: border-box;
+}
+.consciencia
+{
+    width: 370px;
+    height: 300px;
+    background-color: burlywood;
+    margin: auto;
+    padding: 40px 40px;
+    box-sizing: border-box;
+}
+.destaque
+{
+    background-color: sienna;
+    color: tan;
+    border-radius: 2px;
+}
 a
 {
-    color: black;
+    color: darkred;
     text-decoration: none;
 }
 a:hover
 {
-    background-color: brown;
+    background-color: sienna;
     border-radius: 6px;
 }
 main img
@@ -40,4 +80,16 @@ main img
 section p
 {
     padding: 5px 40px;
+}
+section
+{
+    display: flex;
+    align-items: center;
+    padding: 5px 40px;
+}
+section h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px 40px;
+    text-align: center;
 }
