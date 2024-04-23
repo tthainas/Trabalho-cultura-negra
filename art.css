@@ -1,0 +1,95 @@
+body
+{
+    background-color: bisque;
+}
+
+*
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img
+{
+    box-sizing: border-box;
+    width: 400px;
+    margin: 0 auto;
+    width: 200px 300px;
+    display: flex;
+}
+
+p
+{
+    text-align: center;
+}
+
+main
+{
+    text-align:justify;
+    width: 960px;
+    margin: 0 auto;
+    display: flex;
+}
+
+article
+{
+width: 600px;
+display: flex; 
+padding: 60px 100px;
+}
+
+section
+{
+   background-color: #fff;
+   border-color: #ccc #999 #999 #ccc;
+   border: 1px solid #ccc;
+   margin-bottom: 20px;
+   padding: 0%;  
+  
+}
+
+aside
+{
+    background-color: #fff;
+    border: 1px solid #C9bc8f; 
+    width: 260px;
+    float: right;
+    padding: 40px;
+    margin-left: 10px;
+    height: 400px;
+ }
+
+ h2, h1
+ {
+    text-align: center;
+ }
+.primeiro
+{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin:50px auto;
+    padding: 30px 50px;
+    box-sizing: border-box;
+}
+ .texto
+ {
+    background-color: #fff;
+    border: 1px solid #C9bc8f; 
+    width: 260 400px;
+    float: right;
+    padding: 70px;  
+    margin: auto;
+    display: flex;
+    justify-content: center;
+ }
+ .caixa3
+ {
+    background-color: #fff;
+    border: 1px solid #C9bc8f; 
+    width: 260px;
+    float: right;
+    padding: 70px;
+    margin-left: 10px;
+    height: 400px;
+    text-align: center;
+ }
