@@ -18,6 +18,7 @@ article1 h1
 .cabeçalho
 
 {
+    color: sienna;
     display: flex;
     justify-content: space-around;
     padding: 16px;
