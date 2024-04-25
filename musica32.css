@@ -1,0 +1,118 @@
+*
+{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.corpaçokk
+{
+    background-color: rgb(253, 207, 151);
+}
+
+.conteiner8
+{
+    display: flex;
+}
+
+.grup
+{
+    width: 700px;
+    margin-left: 560px;
+    margin-top: 20px;
+    margin-bottom: 9px;
+}
+
+.tiitulo2
+{
+    margin-top: 5px;
+    color: rgb(126, 34, 34)
+}
+.tiitulo1
+{
+    color: rgb(126, 34, 34)
+}
+.oohma4
+{
+    color: rgb(126, 34, 34)
+
+}
+.oohma4:hover
+{
+    background-color: black;
+    border-radius:  7px;
+}
+.cabeçalho3
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 16px;
+    margin-top: 3px;
+    align-items: center;
+    
+}
+.link95
+{
+    color: white;
+    text-decoration: none;
+}
+.link95:hover
+{
+    background-color: black;
+    border-radius:  6px;
+}
+
+.text19
+{
+    width: 450px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 42px 60px;
+    margin: 10px 10px;
+    align-items: center;
+    line-height: 130%;
+    background-color: whitesmoke;
+    border: solid black 4px;
+    border-radius: 6px;
+    
+}
+.text23
+{
+    width: 450px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 42px 60px;
+    margin: 10px 20px;
+    align-items: center;
+    line-height: 130%;
+    background-color: whitesmoke;
+    border: solid black 4px;
+    border-radius: 6px;
+}
+
+.text35
+{
+    width: 450px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 42px 60px;
+    margin: 10px 10px;
+    align-items: center;
+    line-height: 130%;
+    background-color: whitesmoke;
+    border: solid black 4px;
+    border-radius: 6px;
+
+}
+.conteiner4
+{
+    text-align: center;
+}
+.album
+{
+    width: 170px;
+}
+.gurp
+{
+   width: 170px;
+}
