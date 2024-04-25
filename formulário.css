@@ -29,11 +29,12 @@
 body
 { 
 background-color: burlywood;
-<<<<<<< HEAD
+
 background-image: url(trA.jfif);
-=======
+
 background-image: url(negros.jfif);
->>>>>>> b029a6f7a08f70920d7901a3c2f2fc64ef30d2f9
+
+background-image: url(negros.jfif);
 }
 .wrapper
 {
