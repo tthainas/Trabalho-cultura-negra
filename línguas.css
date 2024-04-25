@@ -26,18 +26,12 @@ body
 }
 a
 {
-
-    color: black;
-
-    color: sienna;
-
-
     color: sienna;
     text-decoration: none;
 }
 a:hover
 {
-    background-color: brown;
+    background-color: sienna;
     border-radius: 6px;
 }
 .destaque
@@ -48,7 +42,7 @@ a:hover
 }
 h1
 {
-    color: brown;
+    color: maroon;
 }
 main
 {
@@ -67,7 +61,7 @@ main
 header h1
 {
     border-style: solid;
-    border-color: rgb(114, 7, 7);
+    border-color: maroon;
 }
 img
 {
@@ -79,4 +73,9 @@ img
     margin: auto;
     display: flex;
     justify-content: center;
+}
+.iii img
+{
+    width: 360px;
+    height: 200px;
 }

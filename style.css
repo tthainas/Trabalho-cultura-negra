@@ -61,6 +61,16 @@ h1
     color: tan;
     border-radius: 2px;
 }
+.dia 
+{
+    padding: 100px 300px;
+    text-align: center;
+}
+.dia img
+{
+    width: 800px; 
+    height: 400px;
+}
 a
 {
     color: darkred;

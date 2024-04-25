@@ -17,14 +17,13 @@ h1
 }
 .cabeçalho
 {
+    color: sienna;
     display: flex;
     justify-content: space-around;
     padding: 16px;
     margin-top: 5px;
     align-items: center;
-    background-image: url(parede-texturizada-de-concreto-marrom_53876-94018.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    
 }
 a
 {
