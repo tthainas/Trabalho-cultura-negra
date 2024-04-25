@@ -1,0 +1,52 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cabeçalho
+    {
+        color: brown;
+        display: flex;
+        justify-content: space-around;
+        padding: 16px;
+        margin-top: 5px;
+        align-items: center;
+    }
+    a
+    {
+        color: black;
+        text-decoration: none;
+    }
+    a:hover
+    {
+        background-color: brown;
+        border-radius: 6px;
+    }
+.destaque
+{
+    background-color: sienna;
+    color: tan;
+    border-radius: 2px;
+}
+body
+{ 
+background-color: burlywood;
+<<<<<<< HEAD
+background-image: url(trA.jfif);
+=======
+background-image: url(negros.jfif);
+>>>>>>> b029a6f7a08f70920d7901a3c2f2fc64ef30d2f9
+}
+.wrapper
+{
+    width: 600px;
+    border: 2px solid beige;
+    background: transparent;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    margin-top:100px;
+}
+
+.wrapper h1
+{
+    text-align: center;
+    font-size: 36px;
+}
